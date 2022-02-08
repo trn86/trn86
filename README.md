@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello There 👋
 
+I like to learn new technologies and build some small projects around that.
+🌱 Solutions Architect - Data Engineer @ PhData.
+
+💬 Ask me about Data Engineering technolgies (Snowflake,Spark,ETL,ELT,Java,Python) & Back End Technolgies (Spring,Rest Api).
+ 
 <!--
 **trn86/trn86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
