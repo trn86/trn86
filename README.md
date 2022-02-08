@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 I like to learn new technologies and build some small projects around that.
-🌱 Solutions Architect - Data Engineer @ PhData.
+🌱 Solutions Architect @ PhData.
 
 💬 Ask me about Data Engineering technolgies (Snowflake,Spark,ETL,ELT,Java,Python) & Back End Technolgies (Spring,Rest Api).
  
